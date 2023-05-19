@@ -1,5 +1,5 @@
 # GNSS-EGNOS-EDAS-public_copy
-*This repository is designed to gather data form 3 gnss recievers at the same time and send them into database.*  <br>
+*This repository is designed to gather data from 3 gnss recievers at the same time and send them into database.*  <br>
 *In this case one reciever gets corrections from egnos, one gets correction from edas and one stays autonomous.* <br><br>
 
 **sqlcreate** - input into database to create tables <br>
