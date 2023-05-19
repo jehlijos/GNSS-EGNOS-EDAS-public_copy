@@ -1,0 +1,44 @@
+CREATE TABLE gnssegnosedas (
+	time DATETIME,
+	reciever INT,
+	lat FLOAT(10,7),
+	lon FLOAT(10,7),
+	fix_quality INT,
+	tracked_sat_count INT,
+	el_alt FLOAT,
+	pdop FLOAT,
+	hdop FLOAT,
+	vdop FLOAT,
+	visible_sat_count INT,
+	rms INT,
+	sig_lat FLOAT,
+	sig_long FLOAT,
+	sig_alt FLOAT,
+	is_egnos INT
+);
+
+CREATE TABLE gnssegnosedasgsa (
+	time DATETIME,
+	reciever INT,
+	trackedID_1 INT,
+	trackedID_2 INT,
+	trackedID_3 INT,
+	trackedID_4 INT,
+	trackedID_5 INT,
+	trackedID_6 INT,
+	trackedID_7 INT,
+	trackedID_8 INT,
+	trackedID_9 INT,
+	trackedID_10 INT,
+	trackedID_11 INT,
+	trackedID_12 INT
+);
+
+CREATE TABLE gnssegnosedasgsv (
+	time DATETIME,
+	reciever INT,
+	visible_ID INT,
+	visible_AZ INT,
+	visible_EL INT,
+	visible_SNR INT
+);
