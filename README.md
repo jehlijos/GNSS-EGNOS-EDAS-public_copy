@@ -8,6 +8,12 @@
 **read_filtered2.py** - gets data from reciever set to egnos <br>
 **read_filtered3.py** - gets data from reciever set to edas <br>
 
+## Data visualization examples:
+Comparison of 1 autonomous reciever and 2 EGNOS recievers:
+https://jehlijos.grafana.net/d/da64739a-d2fe-411f-948b-3039347e8972/gnss-egnos-and-edas-solution-comparison?orgId=1&theme=dark
+
+
+
 ## Serial ports settings on linux
 For righ function of the skripts is nessesary to set right symbolic links to physical usb ports <br>
 Symbolic link for egnos reciver is: "downblue" <br>
