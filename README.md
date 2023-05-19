@@ -18,7 +18,7 @@
 
 Comparison of 1 autonomous receiver and 2 EGNOS receivers:
 
-[Dashboard Link - click here](https://snapshots.raintank.io/dashboard/snapshot/9vRxlHoB1VrEqLvYHcUIohfBoKkNbfC7?orgId=2)
+[Dashboard Link - click here](https://snapshots.raintank.io/dashboard/snapshot/ydCzoeqLxJwCxJpAXFZ671sX4aNz1fIp?orgId=2)
 
 
 ## Serial ports settings on Linux:
