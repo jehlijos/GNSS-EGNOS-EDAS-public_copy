@@ -7,7 +7,7 @@
 
 ## File Descriptions:
 
-- **sqlcreate**: Input into the database to create tables.
+- **sqlcreate.txt**: Input into the database to create tables.
 - **run.py**: Runs `read_filtered1.py`, `read_filtered2.py`, and `read_filtered3.py` at the same time.
 - **read_filtered1.py**: Retrieves data from the receiver set to autonomous.
 - **read_filtered2.py**: Retrieves data from the receiver set to EGNOS.
