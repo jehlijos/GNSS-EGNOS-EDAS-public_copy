@@ -51,7 +51,7 @@ You will find these numbers in the following lines at the top:
 looking at device '/devices/platform/scb/fd500000.pcie/pci0000:00/0000:00:00.0/0000:01:00.0/usb1/1-1/1-1.1/1-1.1:1.0/tty/ttyACM0'
 looking at device '/devices/platform/scb/fd500000.pcie/pci0000:00/0000:00:00.0/0000:01:00.0/usb1/1-1/1-1.2/1-1.2:1.0/tty/ttyACM1':
 ```
-To obtain the correct device file (`/dev/ttyACM0`), use:
+To obtain the correct device file (/dev/ttyACM0), use:
 ```
 dmesg
 ```
