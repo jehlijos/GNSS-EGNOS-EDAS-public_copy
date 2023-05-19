@@ -10,8 +10,7 @@
 
 ## Data visualization examples:
 Comparison of 1 autonomous reciever and 2 EGNOS recievers: <br>
-https://jehlijos.grafana.net/d/da64739a-d2fe-411f-948b-3039347e8972/gnss-egnos-and-edas-solution-comparison?orgId=1&theme=dark
-
+https://snapshots.raintank.io/dashboard/snapshot/9vRxlHoB1VrEqLvYHcUIohfBoKkNbfC7?orgId=2
 
 
 ## Serial ports settings on linux
