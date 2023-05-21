@@ -13,7 +13,7 @@
 - **read_filtered2.py**: Retrieves data from the receiver set to EGNOS.
 - **read_filtered3.py**: Retrieves data from the receiver set to EDAS.
 
-
+*Files read GGA, GSA, GSV, and GST NMEA messages. The main table data is averaged every 15 seconds. GSV messages are saved every 60 seconds, and GSA messages are saved every hour. The data is being sent into the database*
 ## Data visualization examples:
 
 Comparison of 1 autonomous receiver and 2 EGNOS receivers:
