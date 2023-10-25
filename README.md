@@ -20,6 +20,9 @@ Comparison of 1 autonomous receiver and 2 EGNOS receivers:
 
 [Dashboard Link - click here](https://snapshots.raintank.io/dashboard/snapshot/ydCzoeqLxJwCxJpAXFZ671sX4aNz1fIp?orgId=2)
 
+LIVE MAP OF EGNOS/EDAS MONITORING
+
+[Dashboard Link - click here](https://jehlijos.grafana.net/public-dashboards/c89bc489f042467dbce34466b557b938?orgId=1)
 
 ## Serial ports settings on Linux:
 
